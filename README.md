@@ -76,3 +76,15 @@
 7.	死神少爺與黑女僕 第 1 卷 : 博客來、維基百科
 
 8.	可塑性記憶 第 1 卷 : 金石堂、維基百科
+
+### 網頁前台的配置
+
+這是我們的首頁，我們網站名稱是『輕』鬆時刻小說店
+![image](https://github.com/109021337/Multimedia-Web-Technologies/assets/80087148/38ddd76b-af20-435f-958b-8b8f4384cc4d)
+
+![image](https://github.com/109021337/Multimedia-Web-Technologies/assets/80087148/ccb17a3e-45e1-48d8-9183-fd3cbe0b9523)
+
+![image](https://github.com/109021337/Multimedia-Web-Technologies/assets/80087148/03ac0886-f5da-41f5-a698-6c1a720bd76b)
+
+![image](https://github.com/109021337/Multimedia-Web-Technologies/assets/80087148/c59086a0-ca60-4d31-a2e1-4b6b98081a9d)
+
